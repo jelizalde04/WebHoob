@@ -22,21 +22,18 @@ This is a simple PHP project that prints a list of books with their author, titl
    git clone https://github.com/jelizalde04/WebHoob.git
 2. **Place the project in the correct folder**:
 
-  Make sure the project is inside the htdocs folder of your XAMPP installation. The project should be located at:
+     Make sure the project is inside the htdocs folder of your XAMPP installation. The project should be located at:
 
-    plaintext
-    Copiar código
-    C:\xampp\htdocs\WebHook
+       C:\xampp\htdocs\WebHook
+   
     Start Apache in XAMPP:
 
-    Open the XAMPP Control Panel.
-    Click Start next to Apache to start the local web server.
+       Open the XAMPP Control Panel.
+       Click Start next to Apache to start the local web server.
     Access the project from your browser:
 
-  Open your browser and go to the following URL:
+     Open your browser and go to the following URL:
 
-    plaintext
-    Copiar código
-    http://localhost/WebHook/webhook.php
+       http://localhost/WebHook/webhook.php
     
   This should return the list of books in JSON format.
